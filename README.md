@@ -15,10 +15,7 @@ Below, find the screenshot of the code written to arrive to the final file.
 
 
 ### Data Source 2:
-1. Where is crime concentrated in Austin? 
-2. Is there a correlation between housing prices and crime rate? 
-3. Which type of crime is prominent in each zip code? 
-4. Does population influence the crime rate in a zip code?
+Gapminder data was obtained from the Gapminder Organization’s website: gapminder.org. The Gapminder organization seeks to dispel myths about global trends such as fertility rates, mortality rates, and income 
 
 ## Datasets Used: 
  1. https://www.kaggle.com/zillow/zecon
