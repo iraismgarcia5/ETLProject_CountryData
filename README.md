@@ -28,6 +28,9 @@ The information used during the project was World Bank data pulled directly from
 ### Data Source 1: 
 For the Country Code dataset, the only transformation happened while turning the dataset into a CSV file by changing the column names, the data looked clean and complete.
 
+### Data Source 2
+Given that the dataset spanned many years and nations, there was inevitably going to be gaps in data for some years. We handled these gaps by changing the placeholder value “NA” with “0”. We did this for numeric columns so that our importing procedure can go smoothly. It also allows us to perform calculations without running into any casting errors.
+
 
 
 
