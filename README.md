@@ -3,6 +3,8 @@
 Omar Haddad, Irais Garcia, Nithin Sunil, Lolita Dias
 
 # CO2 Emissions analysis 
+Find the relationship between CO2 emissions, GDP, population, year, life expectancy and infant mortality for years
+1960-2015.
 
 ### Examine the correlation between crime rate and the home prices in Austin. 
 Finding crime patterns and trends in Austin by zip code to provide better safety and security insights for Austin residents and tourists. 
