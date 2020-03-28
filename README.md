@@ -25,14 +25,10 @@ The information used during the project was World Bank data pulled directly from
 
 ## TRANSFORM
 
-1. Get dataset from sources.
-2. Cleaned data.
-3. Breakdown and analyze the dataset.
-4. Get crime rate by dividing crime reported by population for each zip code.
-5. Calculate percent change of crime, population, and median home value.
-6. Find the correlation between percent change of crime, population, and median home value.
-7. Graph using matplotlib.
-8. Make conclusions.
+### Data Source 1: 
+For the Country Code dataset, the only transformation happened while turning the dataset into a CSV file by changing the column names, the data looked clean and complete.
+
+
 
 
 # Questions - Answered
