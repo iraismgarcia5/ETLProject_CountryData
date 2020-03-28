@@ -18,9 +18,7 @@ Below, find the screenshot of the code written to arrive to the final file.
 Gapminder data was obtained from the Gapminder Organization’s website: gapminder.org. The Gapminder organization seeks to dispel myths about global trends such as fertility rates, mortality rates, and income inequality. The dataset contains information on every country in the world from 1960 to 2015.
 
 ### Data Source 3: 
- 1. https://www.kaggle.com/zillow/zecon
- 2. https://www.census.gov/developers/
- 3. https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu
+The information used during the project was World Bank data pulled directly from its website. The data used included information about each country’s economic indicators for each year starting from 1960. These indicators included life expectancy, infant mortality, fertility, and population. In addition, we used CO2 emissions per capita data for each country from 1960.
 
 ## Breakdown of Tasks:
 
