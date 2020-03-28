@@ -6,6 +6,9 @@ Omar Haddad, Irais Garcia, Nithin Sunil, Lolita Dias
 Find the relationship between CO2 emissions, GDP, population, year, life expectancy and infant mortality for years
 1960-2015.
 
+## EXTRACTION
+
+
 ### Data Source 1: 
 The data for the country codes came from the website https://countrycode.org/, where the country phone codes are displayed and are unique to each country. The method used to extract the data was web scraping using BeautifulSoup. We examined the HTML for the table in which our data was stored and we loaded it into a DataFrame using Pandas. Finally, the file was saved as a CSV file that included new headers for the columns.
 Below, find the screenshot of the code written to arrive to the final file.
@@ -20,7 +23,7 @@ Gapminder data was obtained from the Gapminder Organization’s website: gapmind
 ### Data Source 3: 
 The information used during the project was World Bank data pulled directly from its website. The data used included information about each country’s economic indicators for each year starting from 1960. These indicators included life expectancy, infant mortality, fertility, and population. In addition, we used CO2 emissions per capita data for each country from 1960.
 
-## Breakdown of Tasks:
+## TRANSFORM
 
 1. Get dataset from sources.
 2. Cleaned data.
