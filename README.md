@@ -6,8 +6,13 @@ Omar Haddad, Irais Garcia, Nithin Sunil, Lolita Dias
 Find the relationship between CO2 emissions, GDP, population, year, life expectancy and infant mortality for years
 1960-2015.
 
-### Examine the correlation between crime rate and the home prices in Austin. 
-Finding crime patterns and trends in Austin by zip code to provide better safety and security insights for Austin residents and tourists. 
+### Data Source 1 
+The data for the country codes came from the website https://countrycode.org/, where the country phone codes are displayed and are unique to each country. The method used to extract the data was web scraping using BeautifulSoup. We examined the HTML for the table in which our data was stored and we loaded it into a DataFrame using Pandas. Finally, the file was saved as a CSV file that included new headers for the columns.
+Below, find the screenshot of the code written to arrive to the final file.
+
+<img src= "Images/Picture1.png>
+<img src= "Images/Picture2.png>
+
 
 ## Questions:
 1. Where is crime concentrated in Austin? 
